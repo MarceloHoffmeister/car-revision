@@ -2,3 +2,4 @@ vendor
 views-cache
 res/site/build
 res/site/vendor
+res/site/node_modules/
